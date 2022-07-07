@@ -18,9 +18,9 @@ JavaScript 是 web 开发者必学的三种语言之一：
 
 HTML 中的 Javascript 脚本代码必须位于 **\<script>** 与 **\</script>** 标签之间。
 
-> **注释：**旧的 JavaScript 例子也许会使用 `type` 属性：\<script type="text/javascript">。
+> **注释：** 旧的 JavaScript 例子也许会使用 `type` 属性：\<script type="text/javascript">。
 >
-> **注释：**type 属性不是必需的。JavaScript 是 HTML 中的默认脚本语言。
+> **注释：** type 属性不是必需的。JavaScript 是 HTML 中的默认脚本语言。
 
 ## 内部JavaScript
 
